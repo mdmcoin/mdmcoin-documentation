@@ -1,3 +1,3 @@
 # Waves platform documentation
 
-Documentation website: https://docs.wavesplatform.com
+Documentation website: https://docs.mdmcoin.com
