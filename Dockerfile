@@ -8,7 +8,7 @@ RUN npm install -g gitbook-cli
 
 RUN mkdir /gitbook
 WORKDIR /gitbook
-RUN git clone https://github.com/wavesplatform/waves-documentation.git
+RUN git clone https://github.com/mdmcoin/mdmcoin-documentation.git
 WORKDIR waves-documentation
 RUN gitbook install
 
